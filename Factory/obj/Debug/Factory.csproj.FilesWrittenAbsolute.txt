@@ -1,0 +1,5 @@
+/home/publioromano/Estudando/DesignPatternWithMono/DesignPatterns/Factory/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/publioromano/Estudando/DesignPatternWithMono/DesignPatterns/Factory/bin/Debug/Factory.dll.mdb
+/home/publioromano/Estudando/DesignPatternWithMono/DesignPatterns/Factory/bin/Debug/Factory.dll
+/home/publioromano/Estudando/DesignPatternWithMono/DesignPatterns/Factory/obj/Debug/Factory.dll
+/home/publioromano/Estudando/DesignPatternWithMono/DesignPatterns/Factory/obj/Debug/Factory.dll.mdb
